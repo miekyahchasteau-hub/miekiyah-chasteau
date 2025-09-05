@@ -1,0 +1,7 @@
+echo "# miekiyah-chasteau" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/miekyahchasteau-hub/miekiyah-chasteau.git
+git push -u origin main
